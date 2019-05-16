@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/SalarySearchPortableLibrary/v15
+/bin/Debug
+/obj/Debug
+/packages
+/UnitTestProject/bin/Debug
+/UnitTestProject/obj/Debug
